@@ -16,7 +16,7 @@ public class Demo2Application {
 		return "Hello Parameshwar Redddy";
 	}
 
-	public String know(){
+	public void know(){
 		System.out.println("Hello");
 	}
 	public static void main(String[] args) {
